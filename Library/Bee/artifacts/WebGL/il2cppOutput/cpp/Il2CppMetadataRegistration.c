@@ -1,9 +1,4 @@
 ﻿#include "pch-c.h"
-#ifndef _MSC_VER
-# include <alloca.h>
-#else
-# include <malloc.h>
-#endif
 
 
 #include "codegen/il2cpp-codegen-metadata.h"
@@ -22,19 +17,19 @@ IL2CPP_EXTERN_C_CONST Il2CppTypeDefinitionSizes* g_Il2CppTypeDefinitionSizesTabl
 IL2CPP_EXTERN_C const Il2CppMetadataRegistration g_MetadataRegistration;
 const Il2CppMetadataRegistration g_MetadataRegistration = 
 {
-	3487,
+	7733,
 	g_Il2CppGenericTypes,
-	1944,
+	4818,
 	g_Il2CppGenericInstTable,
-	25631,
+	57122,
 	g_Il2CppGenericMethodFunctions,
-	11584,
+	24976,
 	g_Il2CppTypeTable,
-	30829,
+	68130,
 	g_Il2CppMethodSpecTable,
-	3784,
+	8013,
 	g_FieldOffsetTable,
-	3784,
+	8013,
 	g_Il2CppTypeDefinitionSizesTable,
 	0,
 	NULL,
